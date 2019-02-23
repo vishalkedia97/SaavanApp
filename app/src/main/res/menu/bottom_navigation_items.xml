@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_nav_button"
+        android:icon="@drawable/outline_home_white_36"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/radio_nav_button"
+        android:icon="@drawable/outline_router_white_36"
+        android:title="Radio"/>
+
+    <item
+        android:id="@+id/browse_nav_button"
+        android:icon="@drawable/outline_explore_white_36"
+        android:title="Browse"/>
+
+    <item
+        android:id="@+id/my_music_nav_button"
+        android:icon="@drawable/outline_perm_identity_white_36"
+        android:title="My Music"/>
+
+</menu>
